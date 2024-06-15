@@ -6,7 +6,7 @@ My name is Michael, I am a full-stack engineer working for Akamai. I am constant
      In addition I have some other projects I am in the design stages of.
 - 🌱 I’m currently learning: Rust, C++, and trying to become more proficient in the languages I already know,
      always learning! :)
-- 👯 I’m always open to helping with open source projects. Particularly interested in work with computer vision, UAS/UAVs, and embedded systems. Reach out if you need help integrating!
+- 👯 I’m always open to helping with open source projects. Particularly interested in work with computer vision, UAS/UAVs, and embedded systems. Reach out if you need help!
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/michael-braley/)
 - ⚡ Fun facts:
   * I have five kids.
