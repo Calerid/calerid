@@ -22,6 +22,7 @@ I know, or I am learning the following languages.
 **Operating Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 Linux is my primary operating system of choice. I run Arch based systems, or Debian derivitives. I have Windows on one system due to some things that don't work in Proton yet. My work machine runs MacOS -> I like it about as much as windows.
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
