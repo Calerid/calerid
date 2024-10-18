@@ -2,7 +2,7 @@
 
 My name is Michael, I am a full-stack engineer working for Akamai. I am constantly learning and exploring this new world of creating things. Until a few years ago I had made a career in firefighting - with the increase in inflation I simply wasn't able to keep afloat. Eventually I was given an awesome opportunity to fill a Software Engineering role, which has opened doors I never thought possibe. I still get to help people, just in a totally new way :)!
 
-- 🔭 I am currently working on: My child growth data tracker, Datakinder.
+- 🔭 I am currently working on: Home-School, an application for homsechooling families to track their education.
      In addition I have some other projects I am in the design stages of.
 - 🌱 I’m currently learning: Rust, C++, and trying to become more proficient in the languages I already know,
      always learning! :)
