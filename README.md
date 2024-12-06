@@ -4,9 +4,9 @@ My name is Michael, I am a full-stack engineer working for Akamai. I am constant
 
 - 🔭 I am currently working on: Home-School, an application for homsechooling families to track their education.
      In addition I have some other projects I am in the design stages of.
-- 🌱 I’m currently learning: Rust, C++, and trying to become more proficient in the languages I already know,
+- 🌱 I’m currently learning: Rust, Golang, and trying to become more proficient in the languages I already know,
      always learning! :)
-- 👯 I’m always open to helping with open source projects. Particularly interested in work with computer vision, UAS/UAVs, and embedded systems. Reach out if you need help!
+- 👯 I’m always open to helping with open source projects. Looking for projects which help me learn lower level systems.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/michael-braley/)
 - ⚡ Fun facts:
   * I have five kids.
