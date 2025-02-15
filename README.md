@@ -4,9 +4,8 @@ My name is Michael, I am a full-stack engineer working for Akamai. I am constant
 
 - 🔭 I am currently working on: Home-School, an application for homsechooling families to track their education.
      In addition I have some other projects I am in the design stages of.
-- 🌱 I’m currently learning: Rust, Golang, and trying to become more proficient in the languages I already know,
+- 🌱 I’m currently learning: Rust, Golang, and C and trying to become more proficient in the languages I already know.
      always learning! :)
-- 👯 I’m always open to helping with open source projects. Looking for projects which help me learn lower level systems.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/michael-braley/)
 - ⚡ Fun facts:
   * I have five kids.
@@ -20,14 +19,11 @@ I know, or I am learning the following languages.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Operating Systems**
+I have a broad experience professionally with all major operating systems (excluding the BSD ecosystem). I have worked with Linux, MacOS, and Windows in private and professional settings. That being said, I am happiest with a Linux system. All of my home systems are running Arch with the exception of my Proxmox server which is used to quickly spin up networking and homelab LXCs.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Linux is my primary operating system of choice. I run Arch based systems, or Debian derivitives. I have Windows on one system due to some things that don't work in Proton yet. My work machine runs MacOS -> I like it about as much as windows.
-
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) !
 
 Whether I am programming or not, you can typically find me on: 
 
