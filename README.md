@@ -22,6 +22,7 @@ I know, or I am learning the following languages.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Operating Systems**
+
 I have a broad experience professionally with all major operating systems (excluding the BSD ecosystem). I have worked with Linux, MacOS, and Windows in private and professional settings. That being said, I am happiest with a Linux system. All of my home systems are running Arch with the exception of my Proxmox server which is used to quickly spin up networking and homelab LXCs.
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
